@@ -9,7 +9,7 @@ Below is a list of currently available tools. Click on the script name to view i
 
 | Script Name | Description | Key Features |
 | :--- | :--- | :--- |
-| **[Didi-Spread-Impos](./Didi-Spread-Impos)** | Automated booklet creation and imposition. | • PDF to Booklet conversion<br>• Auto-imposition on SRA3/A3<br>• Automated crop marks<br>• Multi-page PDF support |
+| **[Didi-Spread-Impos](https://github.com/KonradJam/Adobe-ExtendScript/tree/main/InDesign/Digi-Spread-Impos)** | Automated booklet creation and imposition. | • PDF to Booklet conversion<br>• Auto-imposition on SRA3/A3<br>• Automated crop marks<br>• Multi-page PDF support |
 | *Coming Soon* | *More scripts are being developed...* | *Batch processing, layer management, etc.* |
 
 ---
