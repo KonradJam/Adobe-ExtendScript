@@ -10,9 +10,11 @@ Below is a list of currently available tools. Click on the script name to view i
 | Script Name | Description | Key Features |
 | :--- | :--- | :--- |
 | **[Digi-Spread-Impos](./Digi-Spread-Impos)** | Automated booklet creation and imposition. | • PDF to Booklet conversion<br>• Auto-imposition on SRA3/A3<br>• Automated crop marks<br>• Multi-page PDF support |
+| **[Bleed-Maker](./Bleed-Maker)** | Emergency bleed generator using pixel stretch technology. | • Auto-extends artwork edges<br>• Inner Offset (ignores white margins)<br>• Non-destructive (dedicated layer)<br>• Floating control panel |
 | *Coming Soon* | *More scripts are being developed...* | *Batch processing, layer management, etc.* |
 
 ---
+
 
 ## ⚙️ General Installation Guide for InDesign
 
