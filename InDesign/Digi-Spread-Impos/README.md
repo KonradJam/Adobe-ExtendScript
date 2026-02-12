@@ -1,4 +1,4 @@
-# Didi-Spread-Impos 📄✨
+# Digi-Spread-Impos 📄✨
 
 **Advanced PDF to Booklet & Imposition Automation for Adobe InDesign**
 
@@ -6,7 +6,7 @@
 
 ## Overview
 
-**Didi-Spread-Impos** is a professional automation tool designed for DTP operators and digital printers. It transforms single-page or multi-page PDFs into production-ready imposed sheets in minutes.
+**Digi-Spread-Impos** is a professional automation tool designed for DTP operators and digital printers. It transforms single-page or multi-page PDFs into production-ready imposed sheets in minutes.
 
 The script handles the entire workflow: from analyzing the source PDF geometry to generating a print-ready booklet spread, and finally imposing it onto standard print sheets (SRA3/A3/A4) with automated crop marks.
 
@@ -37,7 +37,7 @@ The script handles the entire workflow: from analyzing the source PDF geometry t
 
 ## 🚀 Installation
 
-1.  **Download** the `Didi-Spread-Impos.jsx` file.
+1.  **Download** the `Digi-Spread-Impos.jsx` file.
 2.  **Locate your Scripts Panel folder**:
     *   **Windows**: `C:\Program Files\Adobe\Adobe InDesign [Version]\Scripts\Scripts Panel\`
     *   **macOS**: `/Applications/Adobe InDesign [Version]/Scripts/Scripts Panel/`
@@ -51,7 +51,7 @@ The script handles the entire workflow: from analyzing the source PDF geometry t
 ### Step 1: Launch
 1.  Open Adobe InDesign.
 2.  Go to `Window > Utilities > Scripts`.
-3.  Double-click **Didi-Spread-Impos**.
+3.  Double-click **Digi-Spread-Impos**.
 
 ### Step 2: Load & Configure
 1.  Click **Load file/s** to select your PDF(s).

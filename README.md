@@ -81,8 +81,8 @@ I'm a Graphic Designer and DTP Operator with over 15 years of hands-on experienc
 > *"Automation should handle repetitive tasks so creatives can focus on what they do best—designing."*
 
 **Connect with me:**
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE) – Let's connect professionally
-- 🐙 [GitHub Issues](https://github.com/YOUR-USERNAME/REPO-NAME/issues) – Report bugs or request features
+- 💼 [LinkedIn](https://www.linkedin.com/in/konradjam) – Let's connect professionally
+- 🐙 [GitHub Issues](https://github.com/konradjam/Adobe-ExtendScript/issues) – Report bugs or request features
 
 ---
 
@@ -98,7 +98,7 @@ Contributions, bug reports, and feature requests are always welcome!
 5. Open a Pull Request
 
 **Before contributing:**
-- Check existing [Issues](https://github.com/YOUR-USERNAME/REPO-NAME/issues) to avoid duplicates
+- Check existing [Issues](https://github.com/konradjam/Adobe-ExtendScript/issues) to avoid duplicates
 - Follow the existing code style and structure
 - Test your changes on at least one Adobe application version
 
