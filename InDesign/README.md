@@ -12,7 +12,7 @@ Below is a list of currently available tools. Click on the script name to view i
 | **[Digi-Spread-Impos](./Digi-Spread-Impos)** | Automated booklet creation and imposition. | • PDF to Booklet conversion<br>• Auto-imposition on SRA3/A3<br>• Automated crop marks<br>• Multi-page PDF support |
 | **[Digi-Impos](./Digi-Impos)** | Commercial print imposition with Common Cut support. | • Step-and-repeat imposition<br>• Horizontal & Vertical Common Cut<br>• Auto-fit layout calculation<br>• Dynamic crop marks generation |
 | **[Bleed-Maker](./Bleed-Maker)** | Emergency bleed generator using pixel stretch technology. | • Auto-extends artwork edges<br>• Inner Offset (ignores white margins)<br>• Non-destructive (dedicated layer)<br>• Floating control panel |
-| **[Client-Print-Preview](./Client-Print-Guide)** | Client-facing print preview generator for explaining trim, bleed, safe area, and project dimensions. [file:1] | • Automatic project dimensioning<br>• Safe area, trim, and bleed guides<br>• Info / Warning / Danger panels<br>• Right-side bleed cut simulation [file:1] |
+| **[Client-Print-Preview](./Client-Print-Guide)** | Client-facing print preview generator for explaining trim, bleed, safe area, and project dimensions. | • Automatic project dimensioning<br>• Safe area, trim, and bleed guides<br>• Info / Warning / Danger panels<br>• Right-side bleed cut simulation [file:1] |
 | *Coming Soon* | *More scripts are being developed...* | *Batch processing, layer management, etc.* |
 
 
